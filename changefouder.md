@@ -20,7 +20,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 primeira alteração dos arquivos de teste
 
-
+Chore: usado para pequenas tarefas:
+git commit  –m “chore: removendo arquivo.txt”
+Fix: correções:
+git commit  –m “fix: correção no cálculo de médias”
+Feat: inclusão de funcionalidade:
+git commit  –m “feat: inclusão de função para calcular mediana”
+Docs: atualização de documentação:
+git commit  –m “atualizando o changelog.md”
 
 ## [0.0.1] - 26-06-2024
 
